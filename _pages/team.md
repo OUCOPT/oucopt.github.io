@@ -1,5 +1,5 @@
 ---
-title: "Optimization Group - Team"
+title: " OUCOPT - Team"
 layout: gridlay
 excerpt: "Optimization Group: Team members"
 sitemap: false
@@ -8,10 +8,10 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-快速跳转 [staff](#staff), [Student](#Student), [Alumni](#Alumni), [Visitor](#Visitors).
+
+快速跳转 [staff](#staff), [student](#student), [alumni](#alumni), [Visitor](#visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
