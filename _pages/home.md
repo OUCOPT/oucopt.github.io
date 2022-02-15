@@ -65,9 +65,9 @@ We are located at OUC. We exchange ideas and work with our neighbors from [Quant
 We are grateful for the supports from the [OUC](www.ouc.edu.cn), the [NSFC](https://www.nsfc.gov.cn/), the [ORSC](https://www.orsc.org.cn/), the [CSIAM](https://www.csiam.org.cn/), the [CCF](https://www.ccf.org.cn/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_OUC.png" style="width: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_OUC.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSFC.jpeg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 1500px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 120px">
 </figure>
