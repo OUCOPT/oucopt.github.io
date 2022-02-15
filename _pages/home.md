@@ -8,8 +8,6 @@ permalink: /
 
 团队以“新世纪优秀人才”某某教授为学科带头人，以一批来自中国科学院、中国科技大学、南开大学、山东大学、郑州大学、香港大学等科研院所和高校的年轻博士为科研骨干. 国际著名学者某某教授与2015-2021年担任团队客座教授。
 
-[Ocean University of China](http://www.ouc.edu.cn/)
-
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -65,11 +63,9 @@ permalink: /
  **欢迎报考运筹优化团队硕士和博士研究生！欢迎感兴趣的本科生加入团队子课题组讨论学习！** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for the supports from the [OUC](www.ouc.edu.cn), the [NSFC](https://www.nsfc.gov.cn/), the [ORSC](https://www.orsc.org.cn/), the [CSIAM](https://www.csiam.org.cn/), the [CCF](https://www.ccf.org.cn/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_OUC.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 2250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 110px">
 </figure>
