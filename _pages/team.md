@@ -132,6 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
+
 ## Alumni
 
 {% assign number_printed = 0 %}
