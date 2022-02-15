@@ -62,7 +62,7 @@ We are located at OUC. We exchange ideas and work with our neighbors from [Quant
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Ocean University of China, [OUC](www.ouc.edu.cn) and the [NSFC](https://www.nsfc.gov.cn/).
+We are grateful for the supports from Ocean University of China, [OUC](www.ouc.edu.cn), the [NSFC](https://www.nsfc.gov.cn/), the ORSC, the CSIAM, the CCF.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
