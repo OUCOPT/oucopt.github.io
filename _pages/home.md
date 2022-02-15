@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-团队以“新世纪优秀人才”某某教授为学科带头人，国际著名学者某某教授担任客座教授，以一批来自中国科学院、中国科技大学、南开大学、山东大学、郑州大学、香港大学等科研院所和高校的年轻博士为科研骨干，是一支充满活力的科研与教学一体化团队。
+团队以“新世纪优秀人才”某某教授为学科带头人，国际著名学者某某教授担任客座教授，以一批来自中国科学院、中国科技大学、南开大学、山东大学、郑州大学、香港大学等科研院所和高校的年轻博士为科研骨干，是一支充满活力的科研与教学一体化团队(详见 [Team](team))。
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,12 +54,8 @@ permalink: /
 
 
 
-团队研究方向包括算法博弈、次模优化、图机构与算法等 (参见 [Research](research)).
+团队研究方向包括算法博弈、次模优化、图机构与算法等 (详见 [Research](research))。团队科研项目共计26项，其中国家自然科学基金10项、山东省自然科学基金5项、中国博士后基金1项、教育部新教师基金1项。团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等。
 
-团队科研项目共计26项，其中国家自然科学基金10项、山东省自然科学基金5项、中国博士后基金1项、教育部新教师基金1项。
-团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等。
-
-团队成员 (参见 [Team](team)).
 
 
  **欢迎报考运筹优化团队硕士和博士研究生！欢迎感兴趣的本科生加入团队子课题组讨论学习！** [(详见)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
@@ -67,7 +63,7 @@ permalink: /
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 225px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 145px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 235px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 160px">
 </figure>
