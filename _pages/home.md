@@ -56,6 +56,7 @@ We are a research group at the [Ocean University of China](http://www.ouc.edu.cn
 
 
 研究方向 (参见 [Research](research)).
+团队成员 (参见 [Team](team)).
 
 We are located at OUC. We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
@@ -65,8 +66,8 @@ We are located at OUC. We exchange ideas and work with our neighbors from [Quant
 We are grateful for the supports from the [OUC](www.ouc.edu.cn), the [NSFC](https://www.nsfc.gov.cn/), the [ORSC](https://www.orsc.org.cn/), the [CSIAM](https://www.csiam.org.cn/), the [CCF](https://www.ccf.org.cn/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_OUC.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_OUC.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 110px">
 </figure>
