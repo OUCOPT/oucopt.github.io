@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Ocean University of China](http://www.ouc.edu.cn/). Our aim is to opt.
+团队以“新世纪优秀人才”某某教授为学科带头人，以一批来自中国科学院、中国科技大学、南开大学、山东大学、郑州大学、香港大学等科研院所和高校的年轻博士为科研骨干. 国际著名学者某某教授与2015-2021年担任团队可做教授。
+
+[Ocean University of China](http://www.ouc.edu.cn/)
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -56,9 +58,9 @@ We are a research group at the [Ocean University of China](http://www.ouc.edu.cn
 
 
 研究方向 (参见 [Research](research)).
+
 团队成员 (参见 [Team](team)).
 
-We are located at OUC. We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
