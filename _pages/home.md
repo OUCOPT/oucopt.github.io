@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-团队以“新世纪优秀人才”某某教授为学科带头人，国际著名学者某某教授担任客座教授，以一批来自中国科学院、中国科技大学、南开大学、山东大学、郑州大学、香港大学等科研院所和高校的年轻博士为科研骨干，是一支充满活力的科研与教学一体化团队(详见 [Team](team))。
+团队以“新世纪优秀人才”某某教授为学科带头人，国际著名学者某某教授为客座教授，以一批来自中国科学院、中国科技大学、南开大学、山东大学、郑州大学、香港大学等科研院所和高校的年轻博士为科研骨干，是一支充满活力的科研与教学一体化团队(详见 [Team](team))。
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,7 +54,7 @@ permalink: /
 
 
 
-团队研究方向包括算法博弈、次模优化、图机构与算法等 (详见 [Research](research))。团队科研项目共计26项，其中国家自然科学基金10项、省部级基金7项。团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等。
+团队研究方向包括算法博弈、次模优化、图机构与算法等 (详见 [Research](research))。团队主持科研项目共计26项，其中国家自然科学基金10项、省部级基金7项。团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等(详见 [Publications](publications))。团队培养的研究生中多人赴国内外知名高校深造或任教，如中国科学院、牛津大学、北京大学、纽约大学石溪分校、德克萨斯大学达拉斯分校、德克萨斯大学奥斯丁分校、香港大学、香港科技大学等(详见 [Team](team#alumni))。
 
 
 
