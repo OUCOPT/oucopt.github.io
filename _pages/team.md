@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Optimization Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Optimization Group: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+快速跳转 [staff](#staff), [Student](#Student), [Alumni](#Alumni), [Visitor](#Visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Student
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -167,7 +167,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+##  Visitors
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -193,6 +193,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
