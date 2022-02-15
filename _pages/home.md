@@ -62,11 +62,12 @@ We are located at OUC. We exchange ideas and work with our neighbors from [Quant
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for the supports from Ocean University of China, [OUC](www.ouc.edu.cn), the [NSFC](https://www.nsfc.gov.cn/), the ORSC, the CSIAM, the CCF.
+We are grateful for the supports from the [OUC](www.ouc.edu.cn), the [NSFC](https://www.nsfc.gov.cn/), the [ORSC](https://www.orsc.org.cn/), the [CSIAM](https://www.csiam.org.cn/), the [CCF](https://www.ccf.org.cn/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_OUC.png" style="width: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSFC.jpeg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 60px">
 </figure>
