@@ -65,5 +65,5 @@ permalink: /
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 145px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 235px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 160px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 175px">
 </figure>
