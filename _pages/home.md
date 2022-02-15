@@ -54,11 +54,11 @@ permalink: /
 
 
 
-团队研究方向包括算法博弈、次模优化、图机构与算法等 (详见 [Research](research))。团队科研项目共计26项，其中国家自然科学基金10项、山东省自然科学基金5项、中国博士后基金1项、教育部新教师基金1项。团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等。
+团队研究方向包括算法博弈、次模优化、图机构与算法等 (详见 [Research](research))。团队科研项目共计26项，其中国家自然科学基金10项、省部级基金7项。团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等。
 
 
 
- **欢迎报考运筹优化团队硕士和博士研究生！欢迎感兴趣的本科生加入团队子课题组讨论学习！** [(详见)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **欢迎报考运筹优化团队硕士和博士研究生！欢迎感兴趣的本科生加入团队子课题组讨论学习！** [(招生信息)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
