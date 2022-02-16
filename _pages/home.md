@@ -57,7 +57,7 @@ permalink: /
 团队研究方向包括算法博弈、次模优化、图机构与算法等 (详见 [Research](research))。团队主持科研项目共计26项，其中国家自然科学基金10项、省部级基金7项。团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等(详见 [Publications](publications))。团队培养的研究生中多人赴国内外知名高校深造或任教，如中国科学院、牛津大学、北京大学、纽约大学石溪分校、德克萨斯大学达拉斯分校、德克萨斯大学奥斯丁分校、香港大学、香港科技大学等(详见 [Team](team#alumni))。
 
 
-## 招生
+## 加入我们
  **欢迎报考运筹优化团队硕士和博士研究生！欢迎感兴趣的本科生加入团队子课题组讨论学习！** [(招生信息)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
