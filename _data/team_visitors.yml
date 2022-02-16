@@ -1,0 +1,16 @@
+- name: QF
+  photo: qf.jpg
+  info: 教授
+  email: QF at ouc.edu.cn
+  number_educ: 2
+  education1: 博士，中国科学院
+  education2: 本硕，山东大学
+
+- name: BL
+  photo: bl.jpg
+  info: 教授
+  email: ge@Physics.LeidenUniv.nl
+  number_educ: 3
+  education1: 博士，山东大学
+  education2: 本科，山东大学基地班
+
