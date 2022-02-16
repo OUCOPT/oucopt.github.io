@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Optimization Group at OUC."
+excerpt: "O2R at OUC."
 sitemap: false
 permalink: /allnews.html
 ---
