@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;团队以“新世纪优秀人才”某教授为学科带头人，著名学者某教授为客座教授，以一批来自中国科学院、中国科技大学、南开大学、山东大学、郑州大学、香港大学等科研院所和高校的年轻博士为科研骨干，是一支充满活力的科研与教学一体化团队。
+&emsp;&emsp;团队以“新世纪优秀人才”某教授为学科带头人，著名学者某教授为客座教授，以一批来自中国科学院、中国科技大学、南开大学、山东大学、郑州大学、香港大学等科研院所和高校的年轻博士为科研骨干，是一支充满活力的科研与教学一体化团队。
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -24,10 +24,10 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Huawei1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Huawei2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
