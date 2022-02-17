@@ -1,17 +1,17 @@
 ---
-title: " OUCOPT - Team"
+title: " O2R Group - Team"
 layout: gridlay
-excerpt: "Optimization Group: Team members"
+excerpt: "O2R Group: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
+(Please click the name below for the lab memeber's profile)
 
 
 
-
-快速跳转 [staff](#staff), [student](#student), [alumni](#alumni), [Visitor](#visitors).
+快速跳转 [staff](#staff), [student](#student), [Visitor](#visitors), [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -25,7 +25,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -134,41 +134,6 @@ permalink: /team/
 
 
 
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
 ##  Visitors
 
 {% assign number_printed = 0 %}
@@ -215,6 +180,42 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+
+
+## Alumni
+
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <ul style="overflow: hidden">
 
   </ul>
 </div>
