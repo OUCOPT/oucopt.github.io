@@ -10,8 +10,11 @@ scholar:
 photo: sindylaw.jpg
 ucsf: sindy.law
 ---
+# HX
 
 ### Overview
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: right; margin: 0px 10px"}
+
 Sindy is a seasoned database architect and application developer with numerous professional certifications related to databases, application development and data science. She is currently working on bringing gene discovery information from the research lab to the autism clinic in the hopes of benefitting patients with a bench-to-bed system that integrates clinical data and genomic data. Sindy supports the applications, systems, and databases that make the project possible.
 
 Prior to coming to the State Lab in November 2014, Sindy worked for nearly 17 years at two other departments at UCSF: 14 years at Helen Diller Family Comprehensive Cancer Center (HDFCCC), then nearly 3 years in the Clinical Research Services (CRS) division of the Clinical and Translational Science Institute (CTSI).

@@ -10,14 +10,18 @@ scholar:
 photo: 
 ucsf: 
 ---
-**QF** ![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 250px; float: right; margin: 0px 10px"}
-**姓名：QF**
+# QF
 
-**职称：教授、博导**
+**姓名**
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: right; margin: 0px 10px"}
 
-**邮箱：**
+**教授、博导**
 
 **研究兴趣：组合优化**
+
+**联系方式：**
+
+**CV**
 
 
 ### Overview

@@ -11,6 +11,9 @@ photo: sindylaw.jpg
 ucsf: sindy.law
 ---
 
+# QNong
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: left; margin: 0px 10px"}
 ### Overview
 Sindy is a seasoned database architect and application developer with numerous professional certifications related to databases, application development and data science. She is currently working on bringing gene discovery information from the research lab to the autism clinic in the hopes of benefitting patients with a bench-to-bed system that integrates clinical data and genomic data. Sindy supports the applications, systems, and databases that make the project possible.
 

@@ -10,6 +10,18 @@ scholar:
 photo: 
 ucsf: 
 ---
+# BL
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: left; margin: 0px 10px"}
+**姓名**
+
+**教授、博导**
+
+**研究兴趣：组合优化**
+
+**联系方式：**
+
+**CV**
 
 ### Overview
 Dr. Sanders trained as a pediatric physician in the UK before undertaking a PhD and postdoctoral research position at Yale. He is now an Associate Professor at UCSF in the Department of Psychiatry. His research focuses on using genomics and bioinformatics to understand the etiology of developmental disorders, such as Autism Spectrum Disorder (ASD).
