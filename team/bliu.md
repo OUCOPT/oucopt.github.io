@@ -1,8 +1,8 @@
 ---
 layout: member
-title: qfang
+title: bliu
 position: Principal Investigator
-handle: qfang
+handle: bliu
 email: 
 twitter:
 github: 
@@ -12,7 +12,7 @@ ucsf:
 ---
 # BL
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: left; margin: -10px 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: left; margin: -10px 50px"}
 **姓名**
 
 **教授、博导**
