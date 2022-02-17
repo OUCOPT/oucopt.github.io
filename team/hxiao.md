@@ -34,26 +34,25 @@ As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of
 - Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
 
 #### 科研项目
-1. PhD, with distinction; Genetics, Yale University (2011-2014)
-2. Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
-3. Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
+1. guojia   
+2. sheng
+3. xiao
 
 #### 代表论文
-1. “Arboricity games: the core and the nucleolus”, H. Xiao<sup><span>&#9993;</span></sup> and Q. Fang, *Mathematical Programming*, 2022.
-2. “Approximate core allocations for multiple partners matching games”, H. Xiao*, T. Lu and Q. Fang, arXiv, 2021.
-3. “Population monotonicity in matching games”, H. Xiao* and Q. Fang, Journal of Combinatorial Optimization, 2021.
-4. “On the convexity of independent set games”, H. Xiao*, Y. Wang and Q. Fang, Discrete Applied Mathematics, 2021.
-5. “Population monotonic allocation schemes for vertex cover games”, H. Xiao*, Q. Fang and D.-Z. Du, Theoretical Computer Science, 2020.
-6. “On ideal semicomplete digraphs’’, H. Xiao*, Information Processing Letters, 2020.
+1. “[Arboricity games: the core and the nucleolus](https://link.springer.com/article/10.1007/s10107-021-01752-w)”, H. Xiao<sup><span>&#9993;</span></sup> and Q. Fang, **Mathematical Programming**, 2022.
+2. “[Approximate core allocations for multiple partners matching games](https://arxiv.org/abs/2107.01442)”, H. Xiao <span>&#9993;</span>, T. Lu and Q. Fang, **arXiv**, 2021.
+3. “[Population monotonicity in matching games](https://link.springer.com/article/10.1007%2Fs10878-021-00804-3)”, H. Xiao <span>&#9993;</span> and Q. Fang, **Journal of Combinatorial Optimization**, 2021.
+4. “[On the convexity of independent set games](https://www.sciencedirect.com/science/article/pii/S0166218X20304510)”, H. Xiao <span>&#9993;</span>, Y. Wang and Q. Fang, **Discrete Applied Mathematics**, 2021.
+5. “[Population monotonic allocation schemes for vertex cover games](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304047)”, H. Xiao <span>&#9993;</span>, Q. Fang and D.-Z. Du, **Theoretical Computer Science**, 2020.
+6. “[On ideal semicomplete digraphs](https://www.sciencedirect.com/science/article/abs/pii/S0020019019301863)", H. Xiao <span>&#9993;</span>, **Information Processing Letters**, 2020.
 
 
 #### 社会兼职
-- PhD, with distinction; Genetics, Yale University (2011-2014)
-- Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
-- Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
+- ABC
+- DFS
+- OK
 
 
 #### 获奖
-- PhD, with distinction; Genetics, Yale University (2011-2014)
-- Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
-- Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
+- A
+- B
