@@ -14,15 +14,40 @@ ucsf: sindy.law
 # QNong
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: left; margin: 0px 10px"}
-### Overview
-Sindy is a seasoned database architect and application developer with numerous professional certifications related to databases, application development and data science. She is currently working on bringing gene discovery information from the research lab to the autism clinic in the hopes of benefitting patients with a bench-to-bed system that integrates clinical data and genomic data. Sindy supports the applications, systems, and databases that make the project possible.
+#### 简介
 
-Prior to coming to the State Lab in November 2014, Sindy worked for nearly 17 years at two other departments at UCSF: 14 years at Helen Diller Family Comprehensive Cancer Center (HDFCCC), then nearly 3 years in the Clinical Research Services (CRS) division of the Clinical and Translational Science Institute (CTSI).
+As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of the ASC with [Michael Talkowski](http://talkowski.mgh.harvard.edu). This group developed the Category-Wide Association Study (CWAS) approach to WGS analysis, which provides a framework to define and account for the multiple comparisons inherent to these analyses ([Werling et al. Nature Genetics 2018](https://www.ncbi.nlm.nih.gov/pubmed/29700473)). He is also a member of the Whole-Genome Sequencing in Psychiatric Disorders (WGSPD) steering group, which seeks to integrate WGS data across multiple disorders to maximize power ([Sanders et al. Nature Neuroscience 2018](https://www.ncbi.nlm.nih.gov/pubmed/29184211)). 
 
-During her first few years at HDFCCC, Sindy worked as a geneticist in a cancer research laboratory that pioneered Array Comparative Genome Hybridization technology. She also worked on gene amplification studies that used nematodes as a model system and gene expression studies in human breast cancer cell lines. (Previously, at UC Davis, Sindy had taught undergraduate Genetics and Biochemistry classes. She also conducted a number of genetics studies in a wide variety of organisms including humans, rodents, bacteria, fungi, drosophila, and plants.)
+---
 
-Over the next 14 years at HDFCCC and CTSI CRS, Sindy worked in the informatics space as an application developer, database programmer, business analyst, and project manager. She designed, developed, implemented, and supported a number of information systems, applications, and tools in the area of tissue banking, basic science research, clinical research, central administration, and finance. One system was integrated with the UCSF Financial System, a system used by thousands of people. She also supported CRS-specialized information systems that are currently used at various clinical research sites in San Francisco such as Moffitt, Mount Zion, San Francisco General Hospital, San Francisco VA Medical Center and the Tenderloin. Sindy also worked with process-improvement teams on campus, where her role was to perform heavy data mining from the UCSF IRB system and UCSF Electronic Medical Record Systems, including IDX and ApeX.
+#### 经历
+- PhD, with distinction; Genetics, Yale University (2011-2014)
+- Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
+- Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
 
-### Education
-- MS, Genetics, University of California, Davis
-- BS, Genetics, University of California, Davis
+#### 教育
+- PhD, with distinction; Genetics, Yale University (2011-2014)
+- Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
+- Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
+
+#### 科研项目
+1. PhD, with distinction; Genetics, Yale University (2011-2014)
+2. Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
+3. Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
+
+#### 代表论文
+1. PhD, with distinction; Genetics, Yale University (2011-2014)
+2. Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
+3. Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
+
+
+### 社会兼职
+- PhD, with distinction; Genetics, Yale University (2011-2014)
+- Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
+- Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
+
+
+#### 获奖
+- PhD, with distinction; Genetics, Yale University (2011-2014)
+- Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
+- Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
