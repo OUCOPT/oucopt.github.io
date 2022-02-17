@@ -1,8 +1,12 @@
 - name: QF
   photo: rock.jpg
   info: 教授、博士生导师
+<<<<<<< HEAD
   interest: 组合优化、算法博弈
   email: qfang[at]ouc.edu.cn
+=======
+  email:
+>>>>>>> parent of 427dd07 (Test team member)
   url: qfang
   number_educ: 2
   education1: 博士，中国科学院

@@ -26,6 +26,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
   职称：{{ member.info }} <br>
   兴趣：{{ member.interest }} <br>
   邮箱：<{{ member.email }}>
@@ -34,6 +35,9 @@ permalink: /team/
   <i>{{ member.interest }} </i>
   email: <{{ member.email }}>
 >>>>>>> parent of 3d37e3b (test)
+=======
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+>>>>>>> parent of 427dd07 (Test team member)
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
