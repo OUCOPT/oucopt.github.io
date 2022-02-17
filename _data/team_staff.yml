@@ -1,7 +1,8 @@
 - name: QF
   photo: rock.jpg
   info: 教授、博士生导师
-  email:
+  interest: 组合优化
+  email: qf@ouc.edu.cn
   url: qfang
   number_educ: 2
   education1: 博士，中国科学院
