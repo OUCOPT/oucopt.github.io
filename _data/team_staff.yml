@@ -1,8 +1,8 @@
 - name: QF
   photo: rock.jpg
   info: 教授、博士生导师
-  interest: 组合优化
-  email: qf@ouc.edu.cn
+  interest: 组合优化、算法博弈
+  email: qfang[at]ouc.edu.cn
   url: qfang
   number_educ: 0
   education1: 博士，中国科学院
@@ -11,6 +11,7 @@
 - name: BL
   photo: rock.jpg
   info: 教授、硕士生导师
+  interest: 次模优化、图结构与算法
   email: 
   url: bliu
   number_educ: 0
@@ -20,6 +21,7 @@
 - name: QN
   photo: rock.jpg
   info: 副教授、硕士生导师
+  interest: 次模优化、算法博弈
   email: 
   url: qnong
   number_educ: 0
@@ -29,7 +31,8 @@
 - name: HX
   photo: rock.jpg
   info: 讲师、硕士生导师
-  email: 
+  interest: 组合优化、算法博弈
+  email: hxiao[at]ouc.edu.cn
   url: hxiao
   number_educ: 0
   education1: 博士，香港大学
@@ -38,7 +41,8 @@
 - name: WL
   photo: rock.jpg
   info: 讲师、硕士生导师
-  email:
+  interest: 算法博弈、次模优化
+  email: [at]ouc.edu.cn
   url: wliu
   number_educ: 0
   education1: 博士，中国科学院
@@ -47,7 +51,8 @@
 - name: YC
   photo: rock.jpg
   info: 讲师、硕士生导师
-  email: benschop@physics.leidenuniv.nl
+  interest: 图论、次模优化
+  email: [at]ouc.edu.cn
   number_educ: 0
   education1: 博士，中科大
   education2: 本科，中科大
@@ -56,6 +61,7 @@
 - name: XQ
   photo: rock.jpg
   info: 讲师、硕士生导师
+  interest: 组合数学、次模优化
   email: 
   number_educ: 0
   education1: 博士, 南开

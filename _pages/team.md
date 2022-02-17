@@ -26,9 +26,9 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
-  职称：<i>{{ member.info }} </i><br>
-  兴趣：<i>{{ member.interest }} </i><br>
-  <span>&#9993;</span> <{{ member.email }}>
+  职称：{{ member.info }} <br>
+  兴趣：{{ member.interest }} <br>
+  邮箱：{{ member.email }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
