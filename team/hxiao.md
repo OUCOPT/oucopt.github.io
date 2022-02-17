@@ -24,9 +24,9 @@ As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of
 
 
 #### 经历
-- 2016  至今   中国海洋大学  讲师
-- 2011 - 2016  香港大学  高级研究助理、博士
-- 2004 - 2011  中国海洋大学  本科、硕士
+- 2016  至今 <p>&nbsp;&nbsp;&nbsp;</p> 中国海洋大学 <p>&nbsp;&nbsp;</p> 讲师
+- 2011 - 2016 <p>&nbsp;&nbsp;</p> 香港大学 <p>&nbsp;&nbsp;</p> 高级研究助理、博士
+- 2004 - 2011 <p>&nbsp;&nbsp;</p> 中国海洋大学 <p>&nbsp;&nbsp;</p> 本科、硕士
 
 #### 科研项目
 1. 国家自然科学基金   
