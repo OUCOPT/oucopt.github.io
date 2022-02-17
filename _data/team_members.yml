@@ -1,43 +1,47 @@
 - name: QF
-  photo: qf.jpg
+  photo: 
   info: 教授
-  email: QF at ouc.edu.cn
+  email:
+  url: qfang
   number_educ: 2
   education1: 博士，中国科学院
   education2: 本硕，山东大学
 
 - name: BL
-  photo: bl.jpg
+  photo: 
   info: 教授
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
+  email: 
+  url: bliu
+  number_educ: 2
   education1: 博士，山东大学
   education2: 本科，山东大学基地班
 
 - name: QN
-  photo: qn.png
+  photo: 
   info: 副教授
-  email: niu@physics.leidenuniv.nl
+  email: 
+  url: qnong
   number_educ: 2
   education1: 博士，郑州大学
   education2: 本硕，云南大学
 
 - name: HX
-  photo: hx.jpg
+  photo: 
   info: 讲师
-  email: jwlee0421@postech.ac.kr
+  email: 
+  url: hxiao
   number_educ: 2
   education1: 博士，香港大学
   education2: 本硕，中国海洋大学
 
 - name: WL
-  photo: wl.jpg
+  photo:
   info: 讲师
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
+  email:
+  url: wliu
+  number_educ: 2
   education1: 博士，中国科学院
   education2: 本科，南开大学
-  education3:
 
 - name: YC
   photo: yc.jpg
@@ -49,9 +53,9 @@
 
 
 - name: XQ
-  photo: xq.png
+  photo: 
   info: 讲师
-  email: b
+  email: 
   number_educ: 2
   education1: 博士, 南开
   education2: Casimir/Nanofront PhD fellowship
