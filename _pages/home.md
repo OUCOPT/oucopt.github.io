@@ -58,13 +58,13 @@ permalink: /
 - **算法博弈**、**次模优化**、**图结构与算法**等 (详见 [Research](research))。
 
 #### 项目与成果
-团队主持科研项目共计26项，其中国家自然科学基金10项、省部级基金7项。团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等(详见 [Publications](publications))。团队培养的研究生中多人赴国内外知名高校深造或任教，如中国科学院、牛津大学、北京大学、纽约大学石溪分校、德克萨斯大学达拉斯分校、德克萨斯大学奥斯丁分校、香港大学、香港科技大学等(详见 [Team](team#alumni))。
+团队主持科研项目共计26项，其中国家自然科学基金10项、省部级基金7项。团队研究成果发表在顶尖期刊《Mathematical Programming》、《Internatial Journal of Game Theory》、《European Journal of Operational Research》以及顶尖会议《SODA》、《INFOCOM》、《WINE》等(详见 [Publications](publications))。
 
 #### 合作
 我们与许多科研院所及高校课题组联系密切，包括...
 
-#### 加入我们
- **欢迎报考团队硕士和博士研究生！欢迎本科生加入团队子课题组讨论学习！** [详见 [Vacancies]]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+#### 学生培养
+团队培养的研究生中多人赴国内外知名高校深造或任教，如中国科学院、牛津大学、北京大学、纽约大学石溪分校、德克萨斯大学达拉斯分校、德克萨斯大学奥斯丁分校、香港大学、香港科技大学等(详见 [Team](team#alumni))。**欢迎报考团队硕士和博士研究生！欢迎本科生加入团队子课题组讨论学习！** [详见 [Vacancies]]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
