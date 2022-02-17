@@ -8,11 +8,11 @@ permalink: /research/
 
 # Research
 
-### 算法博弈(Algorithmic Game Theory)
+#### 算法博弈(Algorithmic Game Theory)
 
 #### 次模优化(Submodular Optimization)
 
-###### 图结构与算法(Graph Structures and Algorithm)
+#### 图结构与算法(Graph Structures and Algorithm)
 
 This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
 
