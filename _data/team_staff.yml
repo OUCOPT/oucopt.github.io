@@ -4,7 +4,7 @@
   interest: 组合优化、算法博弈
   email: qfang[at]ouc.edu.cn
   url: qfang
-  number_educ: 0
+  number_educ: 2
   education1: 博士，中国科学院
   education2: 本硕，山东大学
 
@@ -14,7 +14,7 @@
   interest: 次模优化、图结构与算法
   email: 
   url: bliu
-  number_educ: 0
+  number_educ: 2
   education1: 博士，山东大学
   education2: 本科，山东大学基地班
 
@@ -24,7 +24,7 @@
   interest: 次模优化、算法博弈
   email: 
   url: qnong
-  number_educ: 0
+  number_educ: 2
   education1: 博士，郑州大学
   education2: 本硕，云南大学
 
@@ -34,7 +34,7 @@
   interest: 组合优化、算法博弈
   email: hxiao[at]ouc.edu.cn
   url: hxiao
-  number_educ: 0
+  number_educ: 2
   education1: 博士，香港大学
   education2: 本硕，中国海洋大学
 
@@ -44,16 +44,21 @@
   interest: 算法博弈、次模优化
   email: [at]ouc.edu.cn
   url: wliu
-  number_educ: 0
+  number_educ: 2
   education1: 博士，中国科学院
   education2: 本科，南开大学
 
 - name: YC
   photo: rock.jpg
   info: 讲师、硕士生导师
+<<<<<<< HEAD
   interest: 图论、次模优化
   email: [at]ouc.edu.cn
   number_educ: 0
+=======
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 2
+>>>>>>> parent of 3d37e3b (test)
   education1: 博士，中科大
   education2: 本科，中科大
 
@@ -61,9 +66,14 @@
 - name: XQ
   photo: rock.jpg
   info: 讲师、硕士生导师
+<<<<<<< HEAD
   interest: 组合数学、次模优化
   email: [at]ouc.edu.cn
   number_educ: 0
+=======
+  email: 
+  number_educ: 2
+>>>>>>> parent of 3d37e3b (test)
   education1: 博士, 南开
   education2: abc
 

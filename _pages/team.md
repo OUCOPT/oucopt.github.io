@@ -25,9 +25,15 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
+<<<<<<< HEAD
   职称：{{ member.info }} <br>
   兴趣：{{ member.interest }} <br>
   邮箱：<{{ member.email }}>
+=======
+  <i>{{ member.info }} </i>
+  <i>{{ member.interest }} </i>
+  email: <{{ member.email }}>
+>>>>>>> parent of 3d37e3b (test)
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
