@@ -39,9 +39,12 @@ As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of
 3. Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
 
 #### 代表论文
-1. PhD, with distinction; Genetics, Yale University (2011-2014)
-2. Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
-3. Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
+1. “Arboricity games: the core and the nucleolus”, H. Xiao<sup><span>&#9993;</span></sup> and Q. Fang, *Mathematical Programming*, 2022.
+2. “Approximate core allocations for multiple partners matching games”, H. Xiao*, T. Lu and Q. Fang, arXiv, 2021.
+3. “Population monotonicity in matching games”, H. Xiao* and Q. Fang, Journal of Combinatorial Optimization, 2021.
+4. “On the convexity of independent set games”, H. Xiao*, Y. Wang and Q. Fang, Discrete Applied Mathematics, 2021.
+5. “Population monotonic allocation schemes for vertex cover games”, H. Xiao*, Q. Fang and D.-Z. Du, Theoretical Computer Science, 2020.
+6. “On ideal semicomplete digraphs’’, H. Xiao*, Information Processing Letters, 2020.
 
 
 #### 社会兼职
