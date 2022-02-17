@@ -1,5 +1,5 @@
 - name: QF
-  photo: 
+  photo: rock.jpg
   info: 教授
   email:
   url: qfang
@@ -8,7 +8,7 @@
   education2: 本硕，山东大学
 
 - name: BL
-  photo: 
+  photo: rock.jpg
   info: 教授
   email: 
   url: bliu
@@ -17,7 +17,7 @@
   education2: 本科，山东大学基地班
 
 - name: QN
-  photo: 
+  photo: rock.jpg
   info: 副教授
   email: 
   url: qnong
@@ -26,7 +26,7 @@
   education2: 本硕，云南大学
 
 - name: HX
-  photo: 
+  photo: rock.jpg
   info: 讲师
   email: 
   url: hxiao
@@ -35,7 +35,7 @@
   education2: 本硕，中国海洋大学
 
 - name: WL
-  photo:
+  photo: rock.jpg
   info: 讲师
   email:
   url: wliu
@@ -44,7 +44,7 @@
   education2: 本科，南开大学
 
 - name: YC
-  photo: yc.jpg
+  photo: rock.jpg
   info: 讲师
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
@@ -53,7 +53,7 @@
 
 
 - name: XQ
-  photo: 
+  photo: rock.jpg
   info: 讲师
   email: 
   number_educ: 2

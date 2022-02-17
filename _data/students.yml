@@ -23,7 +23,7 @@
   education1:
 
 - name: Gijsbert Verdoes
-  photo: verdoes.jpg
+  photo: rock.jpg
   duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
   info: Fine mechanical engineer associated with the FMD working in our group
   email: verdoes@fmd.physics.leidenuniv.nl
@@ -34,7 +34,7 @@
   education4:
 
 - name: Irene Battisti
-  photo: irene.jpg
+  photo: rock.jpg
   info: PhD student
   duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
   email: Battisti@Physics.LeidenUniv.nl
@@ -44,7 +44,7 @@
   education3: PhD Leiden University!
 
 - name: Doohee Cho
-  photo: Doohee2.jpg
+  photo: rock.jpg
   info: Postdoc
   duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
   email: cho@physics.leidenuniv.nl
@@ -55,7 +55,7 @@
   education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
 - name: Maarten Leeuwenhoek
-  photo: Maarten.png
+  photo: rock.jpg
   info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
   email: M.Leeuwenhoek@tudelft.nl
   duration: In the Allan Lab December 2015 to February 2020, now design engineer at ASML
@@ -66,7 +66,7 @@
   education4:
 
 - name: Freek Groenewoud
-  photo: Freek.jpg
+  photo: rock.jpg
   info: Fine mechanical engineer (also associated with the FMD)
   email: Groenewoud@physics.leidenuniv.nl
   number_educ: 2
@@ -77,7 +77,7 @@
   education4:
 
 - name: Damianos Chatzopoulos
-  photo: Damianos.jpg
+  photo: rock.jpg
   info: PhD Student, started December 2017
   duration: In the Allan Lab Dec 2017 - Dec 2021, now at Rabobank
   email: chatzopoulos@Physics.LeidenUniv.nl
