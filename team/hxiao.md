@@ -24,14 +24,14 @@ As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of
 
 
 #### 经历
-- 2016  至今 ～中国海洋大学 讲师
-- 2011 - 2016 香港大学 高级研究助理、博士
-- 2004 - 2011 中国海洋大学 本科、硕士
+- 2016  至今   中国海洋大学  讲师
+- 2011 - 2016  香港大学  高级研究助理、博士
+- 2004 - 2011  中国海洋大学  本科、硕士
 
 #### 科研项目
-1. guojia   
-2. sheng
-3. xiao
+1. 国家自然科学基金   
+2. 省自然科学基金
+3. 中央高校
 
 #### 代表论文
 1. “[Arboricity games: the core and the nucleolus](https://link.springer.com/article/10.1007/s10107-021-01752-w)”, H. Xiao<sup><span>&#9993;</span></sup> and Q. Fang, **Mathematical Programming**, 2022.
