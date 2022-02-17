@@ -4,7 +4,7 @@
   interest: 组合优化
   email: qf@ouc.edu.cn
   url: qfang
-  number_educ: 2
+  number_educ: 0
   education1: 博士，中国科学院
   education2: 本硕，山东大学
 
@@ -13,7 +13,7 @@
   info: 教授、硕士生导师
   email: 
   url: bliu
-  number_educ: 2
+  number_educ: 0
   education1: 博士，山东大学
   education2: 本科，山东大学基地班
 
@@ -22,7 +22,7 @@
   info: 副教授、硕士生导师
   email: 
   url: qnong
-  number_educ: 2
+  number_educ: 0
   education1: 博士，郑州大学
   education2: 本硕，云南大学
 
@@ -31,7 +31,7 @@
   info: 讲师、硕士生导师
   email: 
   url: hxiao
-  number_educ: 2
+  number_educ: 0
   education1: 博士，香港大学
   education2: 本硕，中国海洋大学
 
@@ -40,7 +40,7 @@
   info: 讲师、硕士生导师
   email:
   url: wliu
-  number_educ: 2
+  number_educ: 0
   education1: 博士，中国科学院
   education2: 本科，南开大学
 
@@ -48,7 +48,7 @@
   photo: rock.jpg
   info: 讲师、硕士生导师
   email: benschop@physics.leidenuniv.nl
-  number_educ: 2
+  number_educ: 0
   education1: 博士，中科大
   education2: 本科，中科大
 
@@ -57,7 +57,7 @@
   photo: rock.jpg
   info: 讲师、硕士生导师
   email: 
-  number_educ: 2
+  number_educ: 0
   education1: 博士, 南开
   education2: abc
 
