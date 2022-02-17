@@ -64,7 +64,7 @@ permalink: /
 我们与许多科研院所及高校课题组联系密切，包括...
 
 #### 加入我们
- **欢迎报考运筹优化团队硕士和博士研究生！欢迎感兴趣的本科生加入团队子课题组讨论学习！** [详见 [Vacancies]]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **欢迎报考团队硕士和博士研究生！欢迎本科生加入团队子课题组讨论学习！** [详见 [Vacancies]]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
