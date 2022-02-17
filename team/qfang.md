@@ -12,15 +12,19 @@ ucsf:
 ---
 # QF
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: right; margin: -20px 50px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: right; margin: 50px 0px"}
 **姓名**
 
 **教授、博导**
 
-**研究兴趣：组合优化**
+**研究兴趣**
+
+组合优化、算法博弈
 
 **联系方式：**
+
+邮箱
 
 **CV**
 
@@ -51,7 +55,7 @@ As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of
 3. Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
 
 
-### 社会兼职
+#### 社会兼职
 - PhD, with distinction; Genetics, Yale University (2011-2014)
 - Postdoctoral Research Associate, State Lab, Yale University (2007-2011)
 - Membership of the Royal College of Paediatrics and Child Health, UK - equivalent to board exams in USA (2007)
