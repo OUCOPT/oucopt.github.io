@@ -24,10 +24,10 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h3><a href="{{ member.url }}" class="off">{{ member.name }}</a></h3>
-  <p>职称：{{ member.info }} <br></p>
-  <p>兴趣：{{ member.interest }} <br></p>
-  <p>邮箱：{{ member.email }}</p>
+  <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
+  职称：{{ member.info }} <br>
+  兴趣：{{ member.interest }} <br>
+  邮箱：<{{ member.email }}>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
