@@ -1,9 +1,9 @@
 ---
-title: "OUCO2R - Vacancies"
+title: "OUCO2R - Contacts"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Contacts"
 sitemap: false
-permalink: /vacancies
+permalink: /contacts
 ---
 
 # Open positions

@@ -10,12 +10,10 @@ scholar:
 photo: 
 ucsf: 
 ---
-# QF
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: right; margin: -20px 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 220px; float: right; margin: -20px 50px"}
 
-
-**姓名**
+**QF**
 
 **教授、博导**
 

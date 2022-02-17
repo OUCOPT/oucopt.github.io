@@ -10,10 +10,10 @@ scholar:
 photo: 
 ucsf: 
 ---
-# BL
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 200px; float: left; margin: -10px 50px"}
-**姓名**
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 220px; float: left; margin: -20px 50px"}
+
+**BL**
 
 **教授、博导**
 
