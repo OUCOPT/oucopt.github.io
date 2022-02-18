@@ -26,19 +26,13 @@ One of the projects back from my job-proposal is to develop nanofabricated STM t
 
 **Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
 
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-
-
 **Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. 
-
 
 #### 图结构与算法(Graph Structures and Algorithm)
 
 **Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
 
 **Twisted bilayer graphene and other material with super-periodicities.**
 We have proposed that artificial 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
