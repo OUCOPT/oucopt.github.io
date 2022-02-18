@@ -77,6 +77,23 @@ permalink: /team/
 {% endif %}
 
 ## 客座教授
+{% assign number_printed = 0 %}
+{% for member in site.data.team_visitingprof %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  职称：{{ member.info }} <br>
+  方向：{{ member.interest }} <br>
+  邮箱：{{ member.email }} <br>
+  <h5><a href="{{ member.url }}" class="off">个人主页</a></h5>
+</div>
 
 ## Student
 {% assign number_printed = 0 %}

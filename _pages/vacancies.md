@@ -11,9 +11,11 @@ permalink: /vacancies
 
 **团队常年招硕士研究生与博士研究生**
 
+详见[中国海洋大学数学科学院招生信息](http://math.ouc.edu.cn/zsxx_24847/list.htm)。
+
 ### 本科生科研训练计划
 
-SRDP 
+海大本科生SRDP计划
 
 ### 硕士研究生
 
