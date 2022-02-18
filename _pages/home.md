@@ -59,7 +59,7 @@ permalink: /
 
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="width: 145px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="width: 235px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="width: 175px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_orsc.png" style="height: 45px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_csiam.png" style="height: 55px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ccf.png" style="height: 65px">
 </figure>
