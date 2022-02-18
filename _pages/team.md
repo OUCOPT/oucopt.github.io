@@ -6,12 +6,12 @@ sitemap: false
 permalink: /team/
 ---
 
-# 团队成员
+# 团队
 
 
-快速跳转 [staff](#staff), [客座教授](#%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88), [student](#student), [Visitor](#visitors), [alumni](#alumni).
+快速跳转 [成员](#%E6%88%90%E5%91%98), [客座教授](#%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88), [学生](#%E5%AD%A6%E7%94%9F), [访问学者](#%E8%AE%BF%E9%97%AE%E5%AD%A6%E8%80%85), [毕业生](#%E6%AF%95%E4%B8%9A%E7%94%9F).
 
-## Staff
+## 成员
 {% assign number_printed = 0 %}
 {% for member in site.data.team_staff %}
 
@@ -108,7 +108,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Student
+## 学生
 {% assign number_printed = 0 %}
 {% for member in site.data.team_students %}
 
@@ -164,7 +164,7 @@ permalink: /team/
 
 
 
-##  Visitors
+##  访问学者
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_visitors %}
@@ -230,7 +230,7 @@ permalink: /team/
 
 
 
-## Alumni
+## 毕业生
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_alumni %}
