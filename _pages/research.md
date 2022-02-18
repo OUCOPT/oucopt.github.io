@@ -8,7 +8,7 @@ permalink: /research/
 
 # 研究方向
 
-This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+团队是国内率先进行算法博弈和相关优化理论研究的团队之一。团队以合作博弈的算法与复杂性、次模优化、图结构与算法为研究主线。
 
 Here are some themes and techniques that we currently work on:
 
@@ -19,6 +19,8 @@ Here are some themes and techniques that we currently work on:
 **Nanofabricated "Smart Tips"**.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
 One of the projects back from my job-proposal is to develop nanofabricated STM tips.
+
+
 
 #### 次模优化(Submodular Optimization)
 
