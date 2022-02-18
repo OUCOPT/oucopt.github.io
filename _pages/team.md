@@ -6,11 +6,10 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# 团队成员
 
 
-
-快速跳转 [staff](#staff), [student](#student), [Visitor](#visitors), [alumni](#alumni).
+快速跳转 [staff](#staff), [客座教授](#%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88) [student](#student), [Visitor](#visitors), [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -76,7 +75,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-
+## 客座教授
 
 ## Student
 {% assign number_printed = 0 %}
