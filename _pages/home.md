@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-&emsp;&emsp;团队以“新世纪优秀人才”某教授为学科带头人，著名学者某教授为客座教授，以一批来自中国科学院、中国科技大学、山东大学、南开大学、香港大学等科研院所和高校的年轻博士为科研骨干，是一支充满活力的科研与教学一体化团队。
+&emsp;&emsp;团队以“新世纪优秀人才”某教授为学科带头人，著名学者某教授为客座教授，以一批来自中国科学院、中国科技大学、山东大学、南开大学、香港大学等科研院所和高校的年轻博士为科研骨干，是一支充满活力的科研与教学一体化团队。团队成员详见 [team](team)。
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
