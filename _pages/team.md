@@ -87,7 +87,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left;margin-top:-.01em" />
   <h4>{{ member.name }}</h4>
   职称：{{ member.info }} <br>
   方向：{{ member.interest }} <br>
