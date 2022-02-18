@@ -23,7 +23,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h3>{{ member.name }}</h3>
+  <h4>{{ member.name }}</h4>
   职称：{{ member.info }} <br>
   方向：{{ member.interest }} <br>
   邮箱：{{ member.email }} <br>
