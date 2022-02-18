@@ -40,7 +40,7 @@
 
 - name: WL
   photo: rock.jpg
-  info: 讲师、硕士生导师
+  info: 讲师
   interest: 算法博弈、次模优化
   email: liuwj[at]ouc.edu.cn
   url: wliu
@@ -50,8 +50,8 @@
 
 - name: YC
   photo: rock.jpg
-  info: 讲师、硕士生导师
-  interest: 图论、次模优化
+  info: 讲师
+  interest: 图论
   email: caoyongchang[at]ouc.edu.cn
   url: http://math.ouc.edu.cn/2017/0412/c8925a61389/page.htm
   number_educ: 0
@@ -61,8 +61,8 @@
 
 - name: Ellen
   photo: rock.jpg
-  info: 讲师、硕士生导师
-  interest: 组合数学、次模优化
+  info: 讲师
+  interest: 组合数学
   email: ellenqu[at]ouc.edu.cn
   url: http://math.ouc.edu.cn/2017/0412/c8925a61412/page.htm
   number_educ: 0

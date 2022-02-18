@@ -1,7 +1,7 @@
 ---
 layout: member
-title: hxiao
-position: Application Developer/Database Programmer​
+title: 肖汉
+position: PI
 handle: hxiao
 email: 
 twitter:
@@ -30,23 +30,23 @@ As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of
 #### 科研项目
 
 ##### 主持
-1. 国家自然科学基金   
-2. 省自然科学基金
-3. 中央高校
+- 国家自然科学基金   
+- 省自然科学基金
+- 中央高校
 
 ##### 参加
-1. 国家自然科学基金   
-2. 省自然科学基金
-3. 国家自然科学基金
+- 国家自然科学基金   
+- 省自然科学基金
+- 国家自然科学基金
 
 
 #### 代表论文
-1. “[Arboricity games: the core and the nucleolus](https://link.springer.com/article/10.1007/s10107-021-01752-w)”, H. Xiao<sup><span>&#9993;</span></sup> and Q. Fang, **Mathematical Programming**, 2022.
-2. “[Approximate core allocations for multiple partners matching games](https://arxiv.org/abs/2107.01442)”, H. Xiao<sup><span>&#9993;</span></sup>, T. Lu and Q. Fang, **arXiv**, 2021.
-3. “[Population monotonicity in matching games](https://link.springer.com/article/10.1007%2Fs10878-021-00804-3)”, H. Xiao<sup><span>&#9993;</span></sup> and Q. Fang, **Journal of Combinatorial Optimization**, 2021.
-4. “[On the convexity of independent set games](https://www.sciencedirect.com/science/article/pii/S0166218X20304510)”, H. Xiao<sup><span>&#9993;</span></sup>, Y. Wang and Q. Fang, **Discrete Applied Mathematics**, 2021.
-5. “[Population monotonic allocation schemes for vertex cover games](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304047)”, H. Xiao<sup><span>&#9993;</span></sup>, Q. Fang and D.-Z. Du, **Theoretical Computer Science**, 2020.
-6. “[On ideal semicomplete digraphs](https://www.sciencedirect.com/science/article/abs/pii/S0020019019301863)", H. Xiao<sup><span>&#9993;</span></sup>, **Information Processing Letters**, 2020.
+- “[Arboricity games: the core and the nucleolus](https://link.springer.com/article/10.1007/s10107-021-01752-w)”, H. Xiao<sup><span>&#9993;</span></sup> and Q. Fang, **Mathematical Programming**, 2022.
+- “[Approximate core allocations for multiple partners matching games](https://arxiv.org/abs/2107.01442)”, H. Xiao<sup><span>&#9993;</span></sup>, T. Lu and Q. Fang, **arXiv**, 2021.
+- “[Population monotonicity in matching games](https://link.springer.com/article/10.1007%2Fs10878-021-00804-3)”, H. Xiao<sup><span>&#9993;</span></sup> and Q. Fang, **Journal of Combinatorial Optimization**, 2021.
+- “[On the convexity of independent set games](https://www.sciencedirect.com/science/article/pii/S0166218X20304510)”, H. Xiao<sup><span>&#9993;</span></sup>, Y. Wang and Q. Fang, **Discrete Applied Mathematics**, 2021.
+- “[Population monotonic allocation schemes for vertex cover games](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304047)”, H. Xiao<sup><span>&#9993;</span></sup>, Q. Fang and D.-Z. Du, **Theoretical Computer Science**, 2020.
+- “[On ideal semicomplete digraphs](https://www.sciencedirect.com/science/article/abs/pii/S0020019019301863)", H. Xiao<sup><span>&#9993;</span></sup>, **Information Processing Letters**, 2020.
 
 
 #### 社会兼职
