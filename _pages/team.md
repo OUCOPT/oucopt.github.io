@@ -23,7 +23,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/avatar400500/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4 style="margin-top: 10px">{{ member.name }}</h4>
+  <h4 style="margin-top: 50px">{{ member.name }}</h4>
   职称：{{ member.info }} <br>
   方向：{{ member.interest }} <br>
   邮箱：{{ member.email }} <br>
@@ -87,8 +87,8 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4 style="margin-top:1px">{{ member.name }}</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/avatar400500/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-top: 0px" />
+  <h4>{{ member.name }}</h4>
   职称：{{ member.info }} <br>
   方向：{{ member.interest }} <br>
   邮箱：{{ member.email }} <br>
@@ -119,7 +119,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/avatar400500/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -176,7 +176,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/avatar400500/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -242,7 +242,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/avatar400500/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
