@@ -27,7 +27,7 @@ permalink: /team/
   职称：{{ member.info }} <br>
   方向：{{ member.interest }} <br>
   邮箱：{{ member.email }} <br>
-  <a href="{{ member.url }}" class="off">个人主页</a>
+  <h4><a href="{{ member.url }}" class="off">个人主页</a></h4>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
