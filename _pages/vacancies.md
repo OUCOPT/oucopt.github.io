@@ -1,7 +1,7 @@
 ---
 title: "OUCO2R - Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Vacancies"
 sitemap: false
 permalink: /vacancies
 ---
