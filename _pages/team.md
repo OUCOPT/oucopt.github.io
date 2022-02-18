@@ -22,8 +22,8 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/avatar400500/{{ member.photo }}" class="img-responsive" width="25%" style="float: left;margin-top:-.02em" />
-  <h4>{{ member.name }}</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/avatar400500/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4 style="margin-top:2px">{{ member.name }}</h4>
   职称：{{ member.info }} <br>
   方向：{{ member.interest }} <br>
   邮箱：{{ member.email }} <br>
@@ -87,8 +87,8 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left;margin-top:-.03em" />
-  <h4>{{ member.name }}</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4 style="margin-top:1px">{{ member.name }}</h4>
   职称：{{ member.info }} <br>
   方向：{{ member.interest }} <br>
   邮箱：{{ member.email }} <br>

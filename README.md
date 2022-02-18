@@ -1,6 +1,6 @@
-# Allan Lab Website
+# 中海大运筹优化研究团队主页
 
-This is the website of our academic research group at Leiden University.
+This is the website of our academic research group at Ocean University of China.
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
 
