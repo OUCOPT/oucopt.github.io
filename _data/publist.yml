@@ -9,7 +9,7 @@
   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/).
 
 - title: "Finding nucleolus of flow game"
-  image: Pairs3.png
+  image: soda06.jpeg
   description: 论文针对网络流博弈，证明了“判定给定分配属于核”是co-NP-hard，并进而解决了Owen于1975年提出的线性生产博弈中判定分配归属核的计算复杂性Open问题。在此研究结果基础上，本项目组进而证明了Steiner树博弈中判定完全均衡性（所有子博弈的核非空）是NP-hard，这是第一个博弈完全均衡性判定的复杂性证明。
   authors: X. Deng; Q. Fang; X. Sun
   link:
