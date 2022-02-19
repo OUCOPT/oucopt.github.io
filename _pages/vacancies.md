@@ -1,5 +1,5 @@
 ---
-title: "OUCO2R - Vacancies"
+title: "招生信息"
 layout: textlay
 excerpt: "Vacancies"
 sitemap: false
