@@ -10,6 +10,8 @@ permalink: /research/
 
 团队是国内率先进行算法博弈和相关优化理论研究的团队之一。团队以合作博弈的算法与复杂性、次模优化、图结构与算法为研究主线。
 
+---
+
 ### 算法博弈(Algorithmic Game Theory)
 
 **算法博弈**(**Algorithmic Game Theory**)又称计算机经济学(Economics and Computation)，属于数学与计算机科学、经济学的交叉学科，通过计算机科学的视角与工具对博弈论进行研究。在合作博弈方面，团队重点研究合作分配方案（如核心、核仁、Shapley值、PMAS等）的存在性与计算复杂性以及特征值函数的次模性。在非合作博弈方面，团队从机制设计角度对各种均衡的收敛性与计算复杂性、无政府代价（PoA）、稳定代价（PoS）等进行研究。
@@ -53,6 +55,7 @@ permalink: /research/
 
 <p> &nbsp; </p>
 
+---
 
 ### 次模优化(Submodular Optimization)
 
@@ -97,6 +100,8 @@ permalink: /research/
 {% endif %}
 
 <p> &nbsp; </p>
+
+---
 
 ### 图结构与算法(Graph Structures and Algorithm)
 
