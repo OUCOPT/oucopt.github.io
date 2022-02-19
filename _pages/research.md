@@ -147,7 +147,8 @@ permalink: /research/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.link.url }}">{{ publi.title }} </a><br />
+  <em>{{ publi.authors }} </em><br />
+  {{ publi.link.display }}
 
 {% endfor %}
