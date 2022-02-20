@@ -1,5 +1,5 @@
 ---
-title: "O2R Group - Events"
+title: "学术活动"
 layout: gridlay
 excerpt: "O2R Group -- Events."
 sitemap: false
@@ -7,7 +7,7 @@ permalink: /events/
 ---
 
 
-# 学术报告
+# 学术活动
 
 ## Group highlights
 

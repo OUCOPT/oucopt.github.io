@@ -17,6 +17,17 @@ permalink: /research/
 **算法博弈**(**Algorithmic Game Theory**)又称计算机经济学(Economics and Computation)，属于数学与计算机科学、经济学的交叉学科，通过计算机科学的视角与工具对博弈论进行研究。在合作博弈方面，团队重点研究合作分配方案（如核心、核仁、Shapley值、PMAS等）的存在性与计算复杂性以及特征值函数的次模性。在非合作博弈方面，团队从机制设计角度对各种均衡的收敛性与计算复杂性、无政府代价（PoA）、稳定代价（PoS）等进行研究。
 
 #### 代表成果
+
+{% for publi in site.data.publist %}
+{% if publi.highlight == 1 %}
+  <a href="{{ publi.link.url }}">{{ publi.title }} </a><br />
+  <em>{{ publi.authors }} </em><br />
+  {{ publi.link.display }}
+{% endif %}
+{% endfor %}
+
+
+#### to be removed
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
