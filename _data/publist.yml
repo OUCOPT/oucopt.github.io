@@ -1,7 +1,7 @@
 - title: "On computational complexity of membership test in flow games and linear production games"
   image: ijgt.jpg
   description: 论文针对网络流博弈，证明了“判定给定分配属于核”是co-NP-hard，并进而解决了Owen于1975年提出的线性生产博弈中判定分配归属核的计算复杂性Open问题。在此研究结果基础上，本项目组进而证明了Steiner树博弈中判定完全均衡性（所有子博弈的核非空）是NP-hard，这是第一个博弈完全均衡性判定的复杂性证明。
-  authors: Q. Fang; S. Zhu; M. Cai; X. Deng
+  authors: Q. Fang, S. Zhu, M. Cai, X. Deng
   link:
     url: https://link.springer.com/article/10.1007/s001820200106
     display: <b>International Journal of Game Theory</b> (2002)
@@ -11,10 +11,10 @@
 - title: "Finding nucleolus of flow game"
   image: soda06.jpg
   description: 论文针对网络流博弈，证明了“判定给定分配属于核”是co-NP-hard，并进而解决了Owen于1975年提出的线性生产博弈中判定分配归属核的计算复杂性Open问题。在此研究结果基础上，本项目组进而证明了Steiner树博弈中判定完全均衡性（所有子博弈的核非空）是NP-hard，这是第一个博弈完全均衡性判定的复杂性证明。
-  authors: X. Deng; Q. Fang; X. Sun
+  authors: X. Deng, Q. Fang, X. Sun
   link:
     url: https://dlnext.acm.org/doi/10.5555/1109557.1109572
-    display: <h4>SODA</h4> (2006)
+    display: <b>SODA</b> (2006)
   highlight: 1
   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/).
 
