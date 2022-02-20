@@ -17,7 +17,7 @@ permalink: /research/
 **算法博弈**(**Algorithmic Game Theory**)又称计算机经济学(Economics and Computation)，属于数学与计算机科学、经济学的交叉学科，通过计算机科学的视角与工具对博弈论进行研究。在合作博弈方面，团队重点研究合作分配方案（如核心、核仁、Shapley值、PMAS等）的存在性与计算复杂性以及特征值函数的次模性。在非合作博弈方面，团队从机制设计角度对各种均衡的收敛性与计算复杂性、无政府代价（PoA）、稳定代价（PoS）等进行研究。
 
 #### 代表成果
-![]({{ site.url }}{{ site.baseurl }}/images/respic/agt1.jpg){: style="width: 220px; float: right"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/agt1.jpg){: style="width: 280px; float: right"}
 
 {% for publi in site.data.publist %}
 {% if publi.highlight == 1 %}
@@ -50,7 +50,7 @@ permalink: /research/
 **图结构与算法** 图论(Graph Theory)起源于著名的Königsberg七桥问题，在计算机科学、管理科学、数据科学、信息科学等众多领域中都有重要应用背景。团队一方面研究图结构的划分问题，如图的染色问题、k-核等；另一方面还重点从图结构的角度进行算法设计与计算复杂性分析，为其他领域存在组合结构的关键问题提供理论与算法支持。
 
 #### 代表成果
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Primesets.png){: style="width: 220px; float: right"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Primesets.png){: style="width: 280px; float: right"}
 
 {% for publi in site.data.publist %}
 {% if publi.highlight == 3 %}
