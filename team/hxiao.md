@@ -11,10 +11,9 @@ photo:
 ucsf: 
 ---
 
-# HX
+# 肖汉
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 220px; float: right; margin: -20px 50px"}
-#### 简介
 
 #### 研究兴趣
 研究兴趣包括组合优化与算法博弈：
@@ -44,19 +43,12 @@ ucsf:
 - “[Population monotonic allocation schemes for vertex cover games](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304047)”, H. Xiao<sup><span>&#9993;</span></sup>, Q. Fang & D.-Z. Du, **Theoretical Computer Science**, 2020.
 - “[On ideal semicomplete digraphs](https://www.sciencedirect.com/science/article/abs/pii/S0020019019301863)", H. Xiao<sup><span>&#9993;</span></sup>, **Information Processing Letters**, 2020.
 
-
-#### 社会兼职
-- ABC
-- DFS
-- OK
-
+#### 课程
+图论与网络优化、计算复杂性理论、运筹学基础、走进运筹学、高等数学II
 
 #### 获奖
 - A
 - B
-
-#### 课程
-图论与网络优化、计算复杂性理论、运筹学基础、走进运筹学、高等数学II
 
 
 #### 学生
