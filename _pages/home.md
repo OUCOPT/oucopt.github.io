@@ -44,22 +44,19 @@ permalink: /
 </div>
 
 
-#### 研究方向
-团队研究方向包括**算法博弈**、**次模优化**、**图结构与算法**等。详见[科研](research)。
-
-#### 项目与成果
-团队主持科研项目共计26项，其中国家自然科学基金10项、省部级基金7项。团队研究成果发表在顶尖期刊Mathematical Programming、Internatial Journal of Game Theory、European Journal of Operational Research以及顶尖会议SODA、INFOCOM、WINE等。详见[科研](research)。
+#### 科研
+&emsp;&emsp;团队研究方向包括**算法博弈**、**次模优化**、**图结构与算法**等。团队主持科研项目共计26项，其中国家自然科学基金10项、省部级基金7项。团队研究成果发表在顶尖期刊Mathematical Programming、Internatial Journal of Game Theory、European Journal of Operational Research以及顶尖会议SODA、INFOCOM、WINE等。详见[科研](research)。
 
 #### 合作
-我们与许多科研院所及高校课题组联系密切，包括...
+&emsp;&emsp;我们与许多科研院所及高校课题组联系密切，包括...
 
 #### 学生培养
-团队培养的研究生中多人赴国内外知名高校深造或任教，如中国科学院、牛津大学、北京大学、纽约大学石溪分校、德克萨斯大学达拉斯分校、德克萨斯大学奥斯丁分校、香港大学、香港科技大学等。**欢迎报考团队硕士和博士研究生！欢迎本科生加入团队子课题组讨论学习！** <font color="red"><b>招生信息</b></font>详见[招生](vacancies)。
+&emsp;&emsp;团队培养的研究生中多人赴国内外知名高校深造或任教，如中国科学院、牛津大学、北京大学、纽约大学石溪分校、德克萨斯大学达拉斯分校、德克萨斯大学奥斯丁分校、香港大学、香港科技大学等。**欢迎报考团队硕士和博士研究生！欢迎本科生加入团队子课题组讨论学习！** 详见[招生](vacancies)。
 
 
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="height: 42px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="height: 43px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="height: 43px">
+  <a href="https://www.orsc.org.cn" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ORSC.png" style="height: 42px"></a>
+  <a href="https://www.csiam.org.cn" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CSIAM.png" style="height: 43px"></a>
+  <a href="https://www.ccf.org.cn" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CCF.png" style="height: 43px"></a>
 </figure>
