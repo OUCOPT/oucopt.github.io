@@ -1,5 +1,5 @@
 ---
-title: "OUCO2R - Home"
+title: "运筹优化团队 - 首页"
 layout: homelay
 excerpt: "Opt and OR group at OUC."
 sitemap: false
