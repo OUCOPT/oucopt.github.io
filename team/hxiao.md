@@ -16,7 +16,7 @@ ucsf:
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 220px; float: right; margin: -20px 50px"}
 #### 简介
 
-As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of the ASC with [Michael Talkowski](http://talkowski.mgh.harvard.edu). This group developed the Category-Wide Association Study (CWAS) approach to WGS analysis, which provides a framework to define and account for the multiple comparisons inherent to these analyses ([Werling et al. Nature Genetics 2018](https://www.ncbi.nlm.nih.gov/pubmed/29700473)). He is also a member of the Whole-Genome Sequencing in Psychiatric Disorders (WGSPD) steering group, which seeks to integrate WGS data across multiple disorders to maximize power ([Sanders et al. Nature Neuroscience 2018](https://www.ncbi.nlm.nih.gov/pubmed/29184211)). 
+I'm a 
 
 
 ---
@@ -58,3 +58,5 @@ As a PI, Dr. Sanders co-leads the whole-genome sequencing (WGS) working group of
 #### 获奖
 - A
 - B
+
+#### 学生
