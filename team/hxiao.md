@@ -24,9 +24,9 @@ ucsf:
 
 #### 联系方式
 
-**邮箱**：hxiao[at]ouc.edu.cn
+邮箱：hxiao[at]ouc.edu.cn
 
-**地址**：青岛市崂山区松岭路238号中国海洋大学数学楼523
+地址：青岛市崂山区松岭路238号中国海洋大学数学楼523
 
 #### 经历
 - 2016 &thinsp; 至今 &nbsp;&nbsp;&nbsp; 中国海洋大学 &nbsp;&nbsp; 讲师
