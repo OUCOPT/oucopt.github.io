@@ -15,7 +15,6 @@ ucsf:
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/rock.jpg){: style="width: 220px; float: right; margin: -20px 50px"}
 
-#### 职称
 讲师、硕士生导师
 
 #### 研究方向
@@ -27,6 +26,8 @@ ucsf:
 邮箱：hxiao[at]ouc.edu.cn
 
 地址：青岛市崂山区松岭路238号中国海洋大学数学楼523
+
+---
 
 #### 经历
 - 2016 &thinsp; 至今 &nbsp;&nbsp;&nbsp; 中国海洋大学 &nbsp;&nbsp; 讲师
@@ -55,5 +56,6 @@ ucsf:
 
 
 #### 学生
-- a
-- b
+- 2018 王元希 （共同导师：方奇志）
+- 2020 王丽兵 （共同导师：方奇志）
+- 2021 陆天航 （共同导师：方奇志）
