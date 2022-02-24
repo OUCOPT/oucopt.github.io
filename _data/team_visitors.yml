@@ -4,8 +4,8 @@
   email: 
   url: 
   number_educ: 0
-  education1: 博士，中国科学院
-  education2: 本硕，山东大学
+  education1: 
+  education2: 
 
 - name: B
   photo: rock.jpg
@@ -13,6 +13,6 @@
   email:
   url: 
   number_educ: 0
-  education1: 博士，山东大学
-  education2: 本科，山东大学基地班
+  education1: 
+  education2: 
 

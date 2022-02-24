@@ -1,15 +1,15 @@
 - name: DZD
   photo: rock.jpg
   info: 教授、博士生导师
-  interest: 组合优化、算法博弈
+  interest: 组合优化
   email: dzd
   url: https://cs.utdallas.edu/people/faculty/du-ding-zhu/
 
 
-- name: ABC
+- name: L
   photo: rock.jpg
-  info: 讲师、硕士生导师
-  interest: 
+  info: 教授、博士生导师
+  interest: 算法设计、机制设计、组合优化
   email: 
   url: 
 
