@@ -51,14 +51,13 @@ ucsf:
 - “[Population monotonic allocation schemes for vertex cover games](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304047)”, H. Xiao<sup><span>&#9993;</span></sup>, Q. Fang & D.-Z. Du, **Theoretical Computer Science**, 2020.
 - “[On ideal semicomplete digraphs](https://www.sciencedirect.com/science/article/abs/pii/S0020019019301863)", H. Xiao<sup><span>&#9993;</span></sup>, **Information Processing Letters**, 2020.
 
-#### 教学培养
-##### 主讲课程
+#### 主讲课程
 图论与网络优化、计算复杂性理论、运筹学基础、走进运筹学、高等数学II
 
-##### 学生
+#### 学生
 - 2018-2021 王元希（共同导师：方奇志）
 - 2020-至今 王丽兵（共同导师：方奇志）
 - 2021-至今 陆天航（共同导师：方奇志）
 
-##### 招生
+#### 招生
 欢迎报考团队硕士和博士研究生！欢迎本科生加入团队子课题组讨论学习！
