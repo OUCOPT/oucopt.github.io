@@ -1,15 +1,15 @@
 ---
-title: " O2R Group - Team"
+title: " 团队"
 layout: gridlay
 excerpt: "O2R Group: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# 团队介绍
+# 团队
 
 
-快速跳转 [成员](#%E6%88%90%E5%91%98)，[客座教授](#%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88)，[学生](#%E5%AD%A6%E7%94%9F)，[访问学者](#%E8%AE%BF%E9%97%AE%E5%AD%A6%E8%80%85)，[毕业生](#%E6%AF%95%E4%B8%9A%E7%94%9F)。
+### [成员](#%E6%88%90%E5%91%98)，[客座教授](#%E5%AE%A2%E5%BA%A7%E6%95%99%E6%8E%88)，[访问学者](#%E8%AE%BF%E9%97%AE%E5%AD%A6%E8%80%85)，[学生](#%E5%AD%A6%E7%94%9F)，[毕业生](#%E6%AF%95%E4%B8%9A%E7%94%9F)
 
 ---
 
