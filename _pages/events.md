@@ -9,9 +9,10 @@ permalink: /events/
 
 # 交流
 
-## 学术报告
+---
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+### 学术报告
+
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -55,14 +56,8 @@ permalink: /events/
 
 ### 学术会议
 
-**次模优化**(**Submodular Optimization**)ABC
 
-#### 代表成果
+#### 2018暑期学校
 
-{% for publi in site.data.publist %}
-{% if publi.highlight == 2 %}
-  <a href="{{ publi.link.url }}">{{ publi.title }} </a><br />
-  <em>{{ publi.authors }} </em><br />
-  {{ publi.link.display }}
-{% endif %}
-{% endfor %}
+#### 2019近似算法国际研讨会
+
