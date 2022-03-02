@@ -31,7 +31,7 @@ ucsf:
 
 #### 经历
 - 2016 &nbsp; 至今 &thinsp;&nbsp;&nbsp; 中国海洋大学 &nbsp;&nbsp; 讲师
-- 2011 - 2016 &nbsp;&nbsp; 香港大学 &nbsp;&nbsp; 高级研究助理、博士
+- 2011 - 2016 &nbsp;&nbsp; 香港大学 &nbsp;&nbsp; 高级助研、博士
 - 2004 - 2011 &nbsp;&nbsp; 中国海洋大学 &nbsp;&nbsp; 本科、硕士
 
 #### 科研项目
