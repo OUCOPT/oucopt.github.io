@@ -45,12 +45,12 @@ ucsf:
 
 
 #### 代表论文
-- “[Arboricity games: the core and the nucleolus](https://link.springer.com/article/10.1007/s10107-021-01752-w)”, H. Xiao<sup><span>&#9993;</span></sup> & Q. Fang, <b>Mathematical Programming</b>, 2022.
-- “[Approximate core allocations for multiple partners matching games](https://arxiv.org/abs/2107.01442)”, H. Xiao<sup><span>&#9993;</span></sup>, T. Lu & Q. Fang, <b><i>arXiv</i></b>, 2021.
-- “[Population monotonicity in matching games](https://link.springer.com/article/10.1007%2Fs10878-021-00804-3)”, H. Xiao<sup><span>&#9993;</span></sup> & Q. Fang, <i><b>Journal of Combinatorial Optimization</b></i>, 2021.
-- “[On the convexity of independent set games](https://www.sciencedirect.com/science/article/pii/S0166218X20304510)”, H. Xiao<sup><span>&#9993;</span></sup>, Y. Wang & Q. Fang, <b>*Discrete Applied Mathematics*</b>, 2021.
+- “[Arboricity games: the core and the nucleolus](https://link.springer.com/article/10.1007/s10107-021-01752-w)”, H. Xiao<sup><span>&#9993;</span></sup> & Q. Fang, <strong><em>Mathematical Programming</strong></em>, 2022.
+- “[Approximate core allocations for multiple partners matching games](https://arxiv.org/abs/2107.01442)”, H. Xiao<sup><span>&#9993;</span></sup>, T. Lu & Q. Fang, <strong><em>arXiv</strong></em>, 2021.
+- “[Population monotonicity in matching games](https://link.springer.com/article/10.1007%2Fs10878-021-00804-3)”, H. Xiao<sup><span>&#9993;</span></sup> & Q. Fang, <strong><em>Journal of Combinatorial Optimization<strong><em>, 2021.
+- “[On the convexity of independent set games](https://www.sciencedirect.com/science/article/pii/S0166218X20304510)”, H. Xiao<sup><span>&#9993;</span></sup>, Y. Wang & Q. Fang, <strong><em>Discrete Applied Mathematics</strong></em>, 2021.
 - “[Population monotonic allocation schemes for vertex cover games](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304047)”, H. Xiao<sup><span>&#9993;</span></sup>, Q. Fang & D.-Z. Du, **Theoretical Computer Science**, 2020.
-- “[On ideal semicomplete digraphs](https://www.sciencedirect.com/science/article/abs/pii/S0020019019301863)", H. Xiao<sup><span>&#9993;</span></sup>, ___Information Processing Letters___, 2020.
+- “[On ideal semicomplete digraphs](https://www.sciencedirect.com/science/article/abs/pii/S0020019019301863)", H. Xiao<sup><span>&#9993;</span></sup>, <strong><em>Information Processing Letters</strong></em>, 2020.
 
 #### 主讲课程
 图论与网络优化、计算复杂性理论、运筹学基础、走进运筹学、高等数学II
